@@ -1,12 +1,11 @@
-┌──(green@root)-[~/]
-└─$ cat green.py
+┌──(aqu@root)-[~/]
+└─$ cat aqu.py
 
-class green:
+class aqu:
 
-def  __social__(self):
  self.gtb = "https://github.com/greenmercyillegal"
  self.dsc = "greenmercy.1337"
  self.tlg = "https://discord.com/greenmercyqwe"
   
- ┌──(green@root)-[~/]
+ ┌──(aqu@root)-[~/]
  └─$
